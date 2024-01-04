@@ -1,0 +1,35 @@
+Received form data:
+Array
+(
+    [username] => ASJAD
+    [father_name] => JOHAR 
+    [surname] => DAWRE
+    [rollno] => 18
+    [address] => 123 Main St
+    [gender] => Male
+    [department] => Computer
+    [year] => TE
+    [category] => Open
+    [dob] => 2004-01-16
+    [city] => Mumbai
+    [contact] => 7841023691
+    [zip] => 402403
+    [email] => parentmail@gmail.com
+    [hobbies] => web dev,story writing,cricket
+    [special_interest] => web dev,criciket
+    [blood_group] => A+
+    [height] => 165
+    [voter] => Yes
+    [voter_id] => 123664891063
+    [worked_in_nss] => Yes
+    [toilet_attached] => Yes
+    [parent_name] => JOHAR ZUBER DAWRE
+    [office_address] => 456 Office Lane
+    [mother_name] => AFRAH
+    [parent_contact] => 9578106540
+    [relationship] => FATHER
+    [profession] => Corporate Employee
+    [title] => 
+)
+
+
